@@ -36,7 +36,7 @@ FileApi - хранение файлов.
 API Gateway - маршрутизация запросов, кеширование.
 
 
-<img width="4190" height="3025" alt="system design" src="https://github.com/user-attachments/assets/61ce6f3a-8a21-4095-ae2b-d8bfd35a7c9f" />
+![System Design](assets/system_design.png)
 
 
 ### *<p align="center">Microservices architecture by ArtSofte</p>*
