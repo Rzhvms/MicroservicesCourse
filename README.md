@@ -63,4 +63,4 @@ Realtime-уведомления:
 ![System Design](assets/system-design.png)
 
 
-### *<p align="center">Microservices architecture by ArtSofte</p>*
+### *<p align="center">Microservices architecture by Artsofte</p>*
